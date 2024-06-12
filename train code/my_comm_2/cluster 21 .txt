@@ -1,0 +1,6 @@
+gene
+CD14
+ICAM1
+LBP
+EHHADH
+ITGAM

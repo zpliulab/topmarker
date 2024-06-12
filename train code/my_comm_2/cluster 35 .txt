@@ -1,0 +1,3 @@
+gene
+HOOK1
+AKTIP

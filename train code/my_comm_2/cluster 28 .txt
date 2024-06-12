@@ -1,0 +1,4 @@
+gene
+TXNIP
+TXNRD1
+GLRX2

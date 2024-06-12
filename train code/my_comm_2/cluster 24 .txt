@@ -1,0 +1,4 @@
+gene
+SCNN1A
+SCNN1B
+SCNN1G

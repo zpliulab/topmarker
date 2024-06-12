@@ -1,0 +1,4 @@
+gene
+FCER1A
+FCER1G
+MS4A2

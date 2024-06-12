@@ -1,0 +1,3 @@
+dis_geneid	gene	cluster1
+841	CASP8	2
+7015	TERT	2

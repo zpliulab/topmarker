@@ -1,0 +1,5 @@
+gene
+HK2
+HK3
+IGFBP4
+GRN

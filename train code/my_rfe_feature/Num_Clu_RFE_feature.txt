@@ -1,0 +1,21 @@
+Cluster	RFEGene_Num
+1	Genes_SelectbyRFEofFeatureData_expr_label_cluster 1 .txt	1
+2	Genes_SelectbyRFEofFeatureData_expr_label_cluster 10 .txt	17
+3	Genes_SelectbyRFEofFeatureData_expr_label_cluster 11 .txt	4
+4	Genes_SelectbyRFEofFeatureData_expr_label_cluster 12 .txt	11
+5	Genes_SelectbyRFEofFeatureData_expr_label_cluster 13 .txt	9
+6	Genes_SelectbyRFEofFeatureData_expr_label_cluster 14 .txt	3
+7	Genes_SelectbyRFEofFeatureData_expr_label_cluster 15 .txt	5
+8	Genes_SelectbyRFEofFeatureData_expr_label_cluster 16 .txt	6
+9	Genes_SelectbyRFEofFeatureData_expr_label_cluster 17 .txt	9
+10	Genes_SelectbyRFEofFeatureData_expr_label_cluster 18 .txt	4
+11	Genes_SelectbyRFEofFeatureData_expr_label_cluster 19 .txt	9
+12	Genes_SelectbyRFEofFeatureData_expr_label_cluster 2 .txt	26
+13	Genes_SelectbyRFEofFeatureData_expr_label_cluster 20 .txt	15
+14	Genes_SelectbyRFEofFeatureData_expr_label_cluster 3 .txt	15
+15	Genes_SelectbyRFEofFeatureData_expr_label_cluster 4 .txt	7
+16	Genes_SelectbyRFEofFeatureData_expr_label_cluster 5 .txt	8
+17	Genes_SelectbyRFEofFeatureData_expr_label_cluster 6 .txt	36
+18	Genes_SelectbyRFEofFeatureData_expr_label_cluster 7 .txt	10
+19	Genes_SelectbyRFEofFeatureData_expr_label_cluster 8 .txt	6
+20	Genes_SelectbyRFEofFeatureData_expr_label_cluster 9 .txt	19
